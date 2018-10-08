@@ -1,0 +1,6 @@
+framework module Pods_Tumblr_browser {
+  umbrella header "Pods-Tumblr browser-umbrella.h"
+
+  export *
+  module * { export * }
+}
